@@ -118,7 +118,7 @@
   /* ---------- Hero ---------- */
   .hero{
     background:linear-gradient(180deg,var(--navy) 0%, var(--navy-2) 100%);
-    padding:72px 0 0 0;
+    padding:72px 0 72px 0;
     overflow:hidden;
     position:relative;
   }
